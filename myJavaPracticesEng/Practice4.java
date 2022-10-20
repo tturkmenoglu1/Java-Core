@@ -2,7 +2,7 @@ package myJavaPracticesEng;
 
 import java.util.Scanner;
 
-public class Question4 {
+public class Practice4 {
     public static void main(String[] args) {
         // Ask client to enter a day name.
         // If client's input is valid, take 1st,2nd and 3rd letter of input
