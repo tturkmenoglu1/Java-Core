@@ -2,7 +2,7 @@ package myJavaPracticesEng;
 
 import java.util.Scanner;
 
-public class Question9 {
+public class Practice09 {
     public static void main(String[] args) {
         // The task is finding the area and perimeter of indicated side lengths of rectangle
         /* Example: Please enter the side lengths of rectangle
