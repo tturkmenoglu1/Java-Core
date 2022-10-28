@@ -1,6 +1,6 @@
 package myJavaPracticesEng;
 
-public class Practice8 {
+public class Practice08 {
     public static void main(String[] args) {
         // While using String methods
         // Take “  Learning java123 is fun@  ”  String and
