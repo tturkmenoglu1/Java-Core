@@ -2,7 +2,7 @@ package myJavaPracticesEng;
 
 import java.util.Scanner;
 
-public class Question10 {
+public class Practice10 {
     /*
     Ask client to enter how many cup of tea they drink and how much sugar they consume per day.
     Calculate the sugar they consume in a year.
