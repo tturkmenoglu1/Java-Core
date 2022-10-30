@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Question11 {
+public class Practice11 {
     public static void main(String[] args) {
         String[] str = {"New York", "Amsterdam", "Istanbul", "Roma", "Munih", "Antalya"};
         List<String> cities = new ArrayList<>();
