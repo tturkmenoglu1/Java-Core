@@ -2,7 +2,7 @@ package myJavaPracticesEng;
 
 import java.util.Scanner;
 
-public class Practice2 {
+public class Practice02 {
 
         public static void main(String[] args) {
             // take the input that user will enter, and make capital letter of first character of it
