@@ -2,7 +2,7 @@ package myJavaPracticesEng;
 
 import java.util.Scanner;
 
-public class Practice5 {
+public class Practice05 {
     public static void main(String[] args) {
         /*
           Write a code to calculate age control for retirement
