@@ -2,7 +2,7 @@ package myJavaPracticesEng;
 
 import java.util.Scanner;
 
-public class Practice6 {
+public class Practice06 {
     /*
             Ask from client to enter a sentence.
             If the sentence contains "upper" word the make whole letter of sentence upper case,
